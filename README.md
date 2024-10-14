@@ -19,8 +19,6 @@ o	Custom Reports: Generates customizable reports for different stakeholders, inc
 o	Scalable Infrastructure: Designed to handle data from multiple buildings, making it suitable for large-scale deployments.
 o	API Support: In the next release, we look forward to include APIs for integration with other energy management platforms and systems.
 
-# 5. Test Edition:
-A test edition of the app is not available on https://emission-phase1.web.app/ for testing and you can login to have a test using the following user credetnials: username: app@test.com    password:  Pass123
 # 5.	User Security and Compliance:
 o	Data Protection: Complies with data protection regulations including the Kenya data protection act of 2019, ensuring user data is secure and confidential.
 o	User Authentication: Features robust user authentication mechanisms to prevent unauthorized access.
@@ -28,3 +26,6 @@ o	User Authentication: Features robust user authentication mechanisms to prevent
 # 6.	User-Friendly Interface:
 o	Intuitive Design: Boasts an intuitive and user-friendly interface, making it accessible to users with varying technical expertise.
 o	Multi-Language Support: Provides support for multiple languages to cater to a diverse user base.
+
+# 7. Test Edition:
+A test edition of the app is not available on https://emission-phase1.web.app/ for testing and you can login to have a test using the following user credetnials: username: app@test.com    password:  Pass123
