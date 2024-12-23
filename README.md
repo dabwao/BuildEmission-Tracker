@@ -28,4 +28,4 @@ o	Intuitive Design: Boasts an intuitive and user-friendly interface, making it a
 o	Multi-Language Support: Provides support for multiple languages to cater to a diverse user base.
 
 # 7. Test Edition:
-A test edition of the app is not available on https://emission-phase1.web.app/ for testing and you can login to have a test using the following user credetnials: username: app@test.com    password:  Pass123
+A test edition of the app is not available on https://emission-staging.web.app for testing and you can signup then login to have a test using credetnials of your choice!
